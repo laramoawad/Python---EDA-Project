@@ -1,1 +1,1 @@
-# Python---EDA-Project
+# In this project I look at the data, identify patterns, understand relationships between features, and look at outliers in the data. I also look at mistakes, and missing values too to clean the data 
